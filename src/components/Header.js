@@ -16,13 +16,13 @@ class Header extends Component{
 
                     <Nav  className="d-flex flex-row">
                         <Nav.Link href="https://github.com/Charles-Bao" target="_blank" >
-                            <Image className = 'h-75 bg-white' src={github} roundedCircle />
+                            <Image className = 'social-icon' src={github}  />
                         </Nav.Link>
                         <Nav.Link href="https://www.linkedin.com/in/yuxiang-bao-710562138/" target="_blank" >
-                            <Image className = 'h-75 bg-white' src={linkedin} roundedCircle />
+                            <Image className = 'social-icon' src={linkedin}  />
                         </Nav.Link>
                         <Nav.Link href="mailto:ybao2@wpi.edu" >
-                            <Image className = 'h-75 bg-white' src={email} roundedCircle  />
+                            <Image className = 'social-icon' src={email}   />
                         </Nav.Link>
 
                     </Nav>

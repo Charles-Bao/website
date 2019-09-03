@@ -11,3 +11,12 @@
 .nav{
     font-size: 1.225 em;
 }
+
+.social-icon {
+    padding: 2px;
+    height: auto;
+    width: auto;
+    box-shadow: 0px 20px 20px 0px rgba(0, 0, 0, 0.1);
+    background-color: ghostwhite;
+    border-radius: 100%;
+}
