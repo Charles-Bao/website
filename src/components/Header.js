@@ -24,7 +24,6 @@ class Header extends Component{
                         <Nav.Link href="mailto:ybao2@wpi.edu" >
                             <Image className = 'social-icon' src={email}   />
                         </Nav.Link>
-
                     </Nav>
 
                     <Nav id = 'navigations' >

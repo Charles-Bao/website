@@ -18,8 +18,8 @@ class Experience extends Component{
               <Popover.Content>
                 <ul>
                     <li>Built a crawler using Selenium and RESTful API to collect the information including ownership and harass tag of the over 100,000 given Call Detail Records(CDR) over semi-open database.</li>
-                    <li>Cleaned the data using the result from the crawler and statistical information, applied XGBoost, LR and SVM using SMOTE algorithm on the imbalanced dataset implemented by Scikit-learn and had averagely 70% precision.</li>
-                    <li>Proposed Info-flow model on the CDR and applied random-walk-based GNN algorithm on the data implemented by Tensorflow, used voting solution to get result over trained classifiers and reached 73% precision.</li>
+                    <li>Cleaned the data using the result from the crawler and statistical information, applied XGBoost, LR and SVM using SMOTE algorithm on the imbalanced dataset implemented by Scikit-learn and had 70% precision in average.</li>
+                    <li>Proposed Info-flow model on the CDR and applied random-walk-based GNN algorithm on the data implemented by Tensorflow. Used voting solution to get result over trained classifiers and reached 73% precision.</li>
                 </ul>
               </Popover.Content>
             </Popover>
@@ -30,9 +30,9 @@ class Experience extends Component{
               <Popover.Title as="h3">Summary</Popover.Title>
               <Popover.Content>
               <ul>
-                    <li>Helped developed Restful API to serialize completed order event to JSON format and visualized the delivery footprint using Falcon and Amap.</li>
-                    <li>Improved map loading speed by 60% by replacing nested looping with multi-thread implementation. </li>
-                    <li>Applied white and black box test by Junit, wrote automated testing scripts in Java and applied stress tests with jMeter.</li>
+                    <li>Helped develop RESTul API to serialize completed order event to JSON format and visualized the delivery footprint using Falcon and Amap.</li>
+                    <li>Improved map loading speed by 60% by replacing nested looping with multi-threaded implementation. </li>
+                    <li>Applied black and white box test by JUnit. Wrote automated testing scripts in Java and applied stress test with JMeter.</li>
                 </ul>
               </Popover.Content>
             </Popover>
@@ -43,8 +43,9 @@ class Experience extends Component{
               <Popover.Title as="h3">Summary</Popover.Title>
               <Popover.Content>
               <ul>
-                    <li>Proposed SPO(subject, predicate, object) extraction algorithm and build a Question Answering system focusing on e-commerce FAQs using LTP and Stanford Parser and applied BM25 algorithm to sort the matching result.</li>
-                    <li>Designed crawler to collect reviews data from Amazon.cn, modified double-propagation algorithm to extract aspects and sentiment word from corpus, transformed raw data to Aspect Based Positive Center Similarity model and trained and test SVM perf classifier on the clothes domain and achieved 88% accuracy.</li>
+                    <li>Proposed SPO(subject, predicate and object) extraction algorithm, build a Question Answering system focusing on e-commerce FAQs using LTP and Stanford Parser and applied BM25 algorithm to sort the matching results.</li>
+                    <li>Designed crawler to collect reviews data from Amazon.cn by Selenium, modified double-propagation algorithm to extract aspects and sentiment word from corpus and transformed raw data to Aspect Based Positive Center Similarity model.</li>
+                    <li>Trained and tested SVM perf classifier on the clothes domain, achieved 88% accuracy.</li>
                 </ul>
               </Popover.Content>
             </Popover>

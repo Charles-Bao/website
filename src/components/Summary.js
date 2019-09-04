@@ -23,12 +23,12 @@ class Summary extends Component{
                                 <div className = "intro mh-100 mw-100 text-left">
                                     <p>
                                     Hi my name is Yuxiang Bao. I’m a computer science graduate student received my master degree from Worcester Polytechnic Institute this May. 
-                                    I obtained my Bachelor degree from BIT where I received Second tier People scholarship due to outstanding grades in 2017.  
-                                    I’ve learned and mastered basic CS fundamentals in school like SE, network, OS, and algorithms. </p>
+                                    I obtained my Bachelor degree from Beijing Institute of Technology where I received Second tier People scholarship due to outstanding grades in 2017.  
+                                    I’ve learned and mastered basic Computer Science fundamentals in school like SE, Network, OS, and Algorithms. </p>
                                     <p>
-                                    Besides of my schools, I’ve done 3 period of internship. I published a paper in IJCNN 2017 during my first internship in Tsinghua University.
-                                    Helped build and test a online ordering system mostly using Java in Rapid Intelligence and worked as an machine learning engineer at Fujitsu last summer,
-                                    where I built a steady risk classification system for subprime loan applicants based on their call detail record. It reached similar performance comparing
+                                    Besides of the experiences in schools, I’ve done 3 period of internships. I published a paper in IJCNN 2017 during my first internship in Tsinghua University.
+                                    I helped build and test a online ordering system mostly using Java in Rapid Intelligence and worked as an machine learning engineer at Fujitsu last summer,
+                                    where I built a steady risk classification system for subprime loan applicants based on their call detail records. The model reached similar performance comparing
                                     to the original system using Tucker decomposition and DNN and ran way faster than it.
                                     </p>
                                 </div>
